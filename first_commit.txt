@@ -1,0 +1,2 @@
+this is my first commit using terminal
+this is modified version
